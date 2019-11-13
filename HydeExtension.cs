@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Hyde : MonoBehaviour
+public class HydeExtension : MonoBehaviour
 {
     public IEnumerator DisableOnTime(GameObject gameObject, float time)
     {

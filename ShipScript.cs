@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using EZObjectPools;
 
-public class ShipScript : Hyde
+public class ShipScript : HydeExtension
 {
     Camera mainCamera;
     public float velocidadRotacion, disparoCD;
